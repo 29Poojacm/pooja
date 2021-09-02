@@ -1,0 +1,5 @@
+Array: It is the one/container which store group of similar type of data into a single variable.
+Ex: 
+ String countryName = {"INDIA","Sri Lanka", "CHINA","USA","RUSSIA"};
+ int noOfStates = {29,11,34,45,23};
+ String countryName[] = new String[4];

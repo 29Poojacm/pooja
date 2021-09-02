@@ -1,0 +1,17 @@
+class MobileCompanies{
+public static void main(String a[]){
+int noOfBrands= 100;
+String brandName=("OnePlus Oppo Vivo Realme Redmi");
+int costOfEachBrand= 30000 20000 20000 30000 20000;
+System.out.println(noOfBrands);
+System.out.println(brandName);
+System.out.println(costOfEachBrand);
+
+
+
+}
+
+
+
+
+}
